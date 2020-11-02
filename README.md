@@ -1,7 +1,9 @@
 3D FNoC - 3D NoC Emulation Model on a Single FPGA
 ==============================
 
-The FPGA-based NoC emulators proposed so far are mostly limited to 2D NoCs. Therefore, we extend the 2D FNoC emulation model to 3D using a single FPGA. 
+The FPGA-based NoC emulators proposed so far are mostly limited to 2D NoCs. Therefore, we extend the 2D <cite><a href="https://dl.acm.org/doi/abs/10.1145/3151758">FNoC</a></cite> emulation model to 3D using a single FPGA. 
+
+
 
 The proposed model takes advantage of 3D Time-Division-Multiplexing (TDM) and a clustering method to be able to emulate large (up to 10,648 nodes) NoC designs. 
 In order to acquire an estimate of the resource usage on FPGA, a VHDL implementation is developed for certain submodules of the emulator. 
