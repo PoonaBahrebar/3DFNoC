@@ -12,6 +12,14 @@ The VHDL code used for the memory is generated using Python scripts, included in
 
 This emulator is developed for the Master's dissertation "3D NoC Simulation  Model for FPGA" by Jonathan D'Hoore in academic year 2019-2020.
 
+
+Referencing the 3D FNoC Emulator
+---------------
+If you use the 3D FNoC emulator in your research, we would appreciate the following citation in any publications to which it has contributed:
+
+Jonathan D'Hoore, Poona Bahrebar and Dirk Stroobandt. 3D NoC Emulation Model on a Single FPGA. In Proc. ACM/IEEE Int. Workshop on System-Level Interconnect Problems and Pathfinding (SLIP'20), pp. 1-8, 2020. 
+
+
 Contributors
 ---------------
 <ul>
