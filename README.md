@@ -1,4 +1,5 @@
-# 3D FNoC - 3D NoC Emulation Model on a Single FPGA
+3D FNoC - 3D NoC Emulation Model on a Single FPGA
+==============================
 
 The FPGA-based NoC emulators proposed so far are mostly limited to 2D NoCs. Therefore, we extend the 2D FNoC emulation model to 3D using a single FPGA. 
 
@@ -10,3 +11,11 @@ The VHDL code used to estimate the resource usage is included in the folder "VHD
 The VHDL code used for the memory is generated using Python scripts, included in the folder "Python_scripts".
 
 This emulator is developed for the Master's dissertation "3D NoC Simulation  Model for FPGA" by Jonathan D'Hoore in academic year 2019-2020.
+
+Contributors
+---------------
+<ul>
+  <li>Jonathan D'Hoore - <a href="mailto:jonathan.dhoore@ugent.be">jonathan.dhoore@ugent.be</a></li>
+  <li>Poona Bahrebar - <a href="mailto:poona.bahrebar@ugent.be">poona.bahrebar@ugent.be</a></li>
+  <li>Dirk Stroobandt - <a href="mailto:dirk.stroobandt@ugent.be">dirk.stroobandt@ugent.be</a></li>
+</ul>
