@@ -21,6 +21,10 @@ If you use the 3D FNoC emulator in your research, we would appreciate the follow
 
 Jonathan D'Hoore, Poona Bahrebar and Dirk Stroobandt. 3D NoC Emulation Model on a Single FPGA. In Proc. ACM/IEEE Int. Workshop on System-Level Interconnect Problems and Pathfinding (SLIP'20), pp. 1-8, 2020. 
 
+License
+---------------
+Please see the license file.
+
 
 Contributors
 ---------------
