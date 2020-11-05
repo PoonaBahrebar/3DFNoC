@@ -33,3 +33,7 @@ Contributors
   <li>Poona Bahrebar - <a href="mailto:poona.bahrebar@ugent.be">poona.bahrebar@ugent.be</a></li>
   <li>Dirk Stroobandt - <a href="mailto:dirk.stroobandt@ugent.be">dirk.stroobandt@ugent.be</a></li>
 </ul>
+
+Development
+---------------
+The 3D FNoC emulator is a work-in-progress, your input is welcome.
