@@ -23,7 +23,7 @@ Jonathan D'Hoore, Poona Bahrebar and Dirk Stroobandt. 3D NoC Emulation Model on 
 
 License
 ---------------
-Please see the license file.
+Please see the <a href="https://github.com/PoonaBahrebar/3DFNoC/blob/main/LICENSE.pdf">license file</a>.
 
 
 Contributors
