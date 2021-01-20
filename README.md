@@ -29,7 +29,7 @@ Please see the <a href="https://github.com/PoonaBahrebar/3DFNoC/blob/main/LICENS
 Contributors
 ---------------
 <ul>
-  <li>Jonathan D'Hoore - <a href="mailto:jonathan.dhoore@ugent.be">jonathan.dhoore@ugent.be</a></li>
+  <li>Jonathan D'Hoore - <a href="mailto:jonathan.dhoore@hotmail.com">jonathan.dhoore@ugent.be</a></li>
   <li>Poona Bahrebar - <a href="mailto:poona.bahrebar@ugent.be">poona.bahrebar@ugent.be</a></li>
   <li>Dirk Stroobandt - <a href="mailto:dirk.stroobandt@ugent.be">dirk.stroobandt@ugent.be</a></li>
 </ul>
